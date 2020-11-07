@@ -1,3 +1,6 @@
+# Pipe Bendinding Calculator
+This is a progressive web application that will be used by pipefitters as a tool to help them bend pipe!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
